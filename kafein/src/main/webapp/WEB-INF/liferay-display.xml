@@ -4,5 +4,18 @@
 <display>
 	<category name="category.sample">
 		<portlet id="kafein" />
+		<portlet id="banner"></portlet>
+	</category>
+	<category name="MyCategory">
+		<portlet id="first_liferay_example"></portlet>
+	</category>
+	<category name="Yeni Kategori">
+		<portlet id="deneme"></portlet>
+	</category>
+	<category name="Kategori-1">
+		<portlet id="Deneme-1"></portlet>
+	</category>
+	<category name="İletişim Formu">
+		<portlet id="contact_form"></portlet>
 	</category>
 </display>
